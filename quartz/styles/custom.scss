@@ -1,9 +1,20 @@
 @use "./base.scss";
 @use "./themes";
 // put your custom CSS here!
-body {
-    background: var(--bg);          // grey side-gutters
-  }
-  a {
-    color: var(--link-color);       // mint-breeze’s purple
-  }
+:root {
+    /* 1. Main accent = link colour ⬇︎ */
+    --accent:              #7852ee;   /* for future-proofing */
+    --accent-h:            258;       /*   258 ≈ pure purple  */
+    --accent-s:            82%;
+    --accent-l:            66%;
+    /* The theme’s link chain goes
+         link → --text-accent → --color-accent
+         so we redefine both to be safe                         */
+    --text-accent:         var(--color-accent);
+    --text-accent-hover:   var(--color-accent-2);
+   
+}
+
+
+
+  
