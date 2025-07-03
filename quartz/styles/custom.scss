@@ -3,7 +3,7 @@
 // put your custom CSS here!
 :root {
     /* 1. Main accent = link colour ⬇︎ */
-    --accent:              #403d49;   /* for future-proofing */
+    --accent:              #7852ee;   /* for future-proofing */
     --accent-h:            258;       /*   258 ≈ pure purple  */
     --accent-s:            82%;
     --accent-l:            66%;
@@ -15,18 +15,7 @@
    
 }
 
-:root {
-    /* graph text */
-    --darkgray: #000;
-    --graph-node-unresolved: #000;
-    --graph-node-tag: #000;
-  
-    /* explorer folder / active link */
-    --collapse-icon-color:           var(--text-accent);
-    --collapse-icon-color-collapsed: var(--text-accent);
-    --nav-item-color-active:         var(--text-accent);
-    --nav-item-background-active:    hsla(var(--accent-h) var(--accent-s) var(--accent-l) / .15);
-  }
+
 
 
   
