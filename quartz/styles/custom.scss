@@ -1,2 +1,9 @@
 @use "./base.scss";
+@use "./themes";
 // put your custom CSS here!
+body {
+    background: var(--bg);          // grey side-gutters
+  }
+  a {
+    color: var(--link-color);       // mint-breeze’s purple
+  }
