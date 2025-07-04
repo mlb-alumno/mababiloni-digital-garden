@@ -1,6 +1,4 @@
 
----
-
 La contradicción nos mueve.
 
 Para que haya movimiento se necesita dualidad
@@ -24,4 +22,7 @@ Takemitsu: mantener las contradicciones en nuestro arte y nuestra forma de traba
 Whitman: Pues bien me contradigo. Contengo multitudes.
 
 Empujar energía en un sentido o simplemente empujar hacia dentro para observar el péndulo de lo social.
+
+---
+
 

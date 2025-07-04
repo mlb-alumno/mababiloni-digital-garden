@@ -107,23 +107,21 @@ Similarly, with Mu-ch’i’s Persimmons (PL pp), the painting permeates the min
 
 ---
 
-All these characteristics are born from the [[content/Formless Self]]
+All these characteristics are born from the [[Formless Self]]
 
 
 --- 
 
 
-Todas estas siete caracteristicas nacen de [[El Ser Sin Forma - Formless Self]]
-Del Zen
+Todas estas siete características nacen del [[Formless Self]] del Zen
 
-De tal modo que 
+De tal modo que:
 
-La asimetria es por su falta de forma estricta
-La simplicidad es por la absoluta simplicidad del vacio
-La austeridad es por su eternidad (being seasoned)
-La profundidad oscura es parte de este formless self
-
-La calma viene de la quietud absoluta de este formless self
+- La asimetria es por su falta de forma estricta
+- La simplicidad es por la absoluta simplicidad del vacío
+- La austeridad es por su eternidad (being seasoned)
+- La profundidad oscura es parte de este formless self
+- La calma viene de la quietud absoluta de este formless self
 
 ---
 

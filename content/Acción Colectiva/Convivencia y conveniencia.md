@@ -1,5 +1,4 @@
 
----
 
 Conveniencia no es convivencia
 Con viveza es vivir convencido de ver vivir al otro. 
