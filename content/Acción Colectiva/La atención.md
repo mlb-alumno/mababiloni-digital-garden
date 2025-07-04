@@ -1,3 +1,8 @@
+---
+
+---
+
+---
 
 El problema de la atención es un problema sistémico, que muchas veces planteamos erróneamente como individual. 
 
