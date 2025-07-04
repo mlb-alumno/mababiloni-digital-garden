@@ -14,7 +14,7 @@ La realidad es contradictoria, se manifiesta contradictoria, por eso se observa 
 El mal existe para mover junto con el bien la rueda del mundo, la rueda del tiempo.
 Rueda que, por otro lado, no existe.
 
-Las dualidades rotan la rueda
+Las dualidades rotan la rueda.
 
 "Pues allí donde dos o tres se reúnen en mi nombre, allí estoy yo en medio de ellos."
 
