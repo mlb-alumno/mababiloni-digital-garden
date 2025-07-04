@@ -4,7 +4,7 @@
 
 ---
 
-El problema de la atención es un problema sistémico, que muchas veces planteamos erróneamente como individual. 
+El problema de la atención es un problema sistémico, que muchas veces planteamos erróneamente como puramente individual. 
 
 Debemos atender a este problema de manera colectiva, creando nuevas herramientas y nuevos hábitos grupales.
 
