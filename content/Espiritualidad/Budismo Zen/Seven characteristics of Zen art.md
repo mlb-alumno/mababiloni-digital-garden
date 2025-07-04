@@ -4,10 +4,10 @@ Shin'ichi Hisamatsu defines in ** Zen and the fine arts** 7 characteristics of z
 1. **Asymmetry**, 
 2. **Simplicity**
 3. **Austere Sublimity** (of the sublime) or Loafty dryness
-5. **Naturalness** 
-6. **Subtle Profundity or Deep Reserve:** Not everything is shown, darkness is an space from which everything can be shown without being explicit
-- **Freedom from Attachment:** not constrained by rules.
-- **Tranquillity:** guiding you towards silence and stillness.
+4. **Naturalness** 
+5. **Subtle Profundity or Deep Reserve:** Not everything is shown, darkness is an space from which everything can be shown without being explicit
+6. **Freedom from Attachment:** not constrained by rules.
+7. **Tranquillity:** guiding you towards silence and stillness.
 
 Here are some fragments of his book:
 ## 1. Asymmetry
