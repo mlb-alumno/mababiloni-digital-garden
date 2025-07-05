@@ -1,5 +1,5 @@
 
-Hay una idea que comparten muchísimas personas sean de derechas izqueirdas, equipos de fútbol o asociación de vecinos.
+Hay una idea que comparten muchísimas personas sean de derechas, izquierdas, equipos de fútbol o asociación de vecinos. 
 
 Es la idea de "nosotros contra ellos"
 
