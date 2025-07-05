@@ -1,5 +1,5 @@
 ---
-title: Welcome  
+title: Inicio
 ---
 ---
 Bienvenid_ al jardín digital de Ma Babiloni, un espacio creado para compartir algunas de mis ideas, textos y poemas. 
