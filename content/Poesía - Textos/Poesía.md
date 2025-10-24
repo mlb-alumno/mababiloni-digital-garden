@@ -1,5 +1,5 @@
 
-Fragmentos de Novalis sobre el poeta y la poesía:
+Fragmentos de Novalis sobre la poesía:
 
 
 Componer poesía es engendrar. Toda poesía ha de ser una viva individualidad. ¡Qué cantidad tan inagotable de materiales existe por doquier para lograr combinaciones nuevas y únicas! El que haya adivinado este secreto sólo necesita decidirse a renunciar a la infinita diversidad y a su mero goce y empezar en un punto determinado, pero esta decisión exige la renuncia a la libre sensación frente a un mundo ilimitado y la limitación a un solo aspecto del mismo.

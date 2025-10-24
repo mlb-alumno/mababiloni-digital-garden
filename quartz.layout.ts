@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Web": "https://mlallanamusic.com",
+      "Visit Ma Babiloni Personal Web": "https://mababiloni.com",
     },
   }),
 }
@@ -23,7 +23,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    
   ],
+  afterBody:  [
+    Component.RecentNotes({ title: "Recientemente he escrito...",limit:4}),
+  ],
+
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -44,6 +49,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
+
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)

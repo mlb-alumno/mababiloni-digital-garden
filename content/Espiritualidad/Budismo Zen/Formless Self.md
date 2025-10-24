@@ -1,5 +1,5 @@
 
-Fragments of **Zen and the fine arts**:
+Fragments of the book **Zen and the fine arts**:
 
 While the question of what Zen is requires careful steps in the manner of elucidation and comprehension, in brief, I think it can be said that Zen is the **Self-Awareness of the Formless Self**.
 
